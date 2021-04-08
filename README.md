@@ -5,7 +5,7 @@ A React component to embed the Jotform iframe [https://www.jotform.com/](https:/
 This handles the resize mechanism provided by JotForm.
 
 [![npm](https://img.shields.io/npm/v/react-jotform.svg)](https://www.npmjs.com/package/react-jotform)
-[![GitHub issues](https://img.shields.io/github/issues/xurei/react-jotform.svg)](https://github.com/antoniowd/react-jotform/issues)
+[![GitHub issues](https://img.shields.io/github/issues/antoniowd/react-jotform.svg)](https://github.com/antoniowd/react-jotform/issues)
 
 ## Install
 ```
