@@ -1,0 +1,36 @@
+{
+  "name": "react-jotform",
+  "version": "1.0.0",
+  "description": "\"A React component to embed the Jotform iframe\"",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "author": "\"Antonio Martin <tonitim13@gmail.com>\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rollup": "^2.44.0",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "typescript": "^4.2.4"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "files": ["dist"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:antoniowd/react-jotform.git"
+
+  },
+  "bugs": {
+    "url": "https://github.com/antoniowd/react-jotform/issues"
+  }
+}
